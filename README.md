@@ -8,4 +8,4 @@ Classification of Hungarian bamboo
 Kontschán, J., Ács, A., Wang, G.Q. and Neményi, A., 2015. New data to the mite fauna of Hungarian bamboo plantations. Acta Phytopathologica et Entomologica Hungarica, 50(1), pp.77-83.
 
 # Open Source Movements: 
-LICENSE
+![Hungarian Bamboo]LICENSE
