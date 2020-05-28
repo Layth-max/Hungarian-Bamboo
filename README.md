@@ -14,9 +14,9 @@ Classification of Hungarian bamboo
 8. https://www.bambuszkerteszet.hu/riz%C3%B3makorl%C3%A1toz%C3%A1s.html 
 
 # References:
-## [1] Kontschán, J., Ács, A., Wang, G.Q. and Neményi, A., 2015. New data to the mite fauna of Hungarian bamboo plantations. Acta Phytopathologica et Entomologica Hungarica, 50(1), pp.77-83.
-## [2] Nemenyi, A., Pek, Z., Percze, A., Gyuricza, C., Miko, P., Nagy, Z., Higashiguchi, R. and Helyes, L., 2017. The effect of water availability on shoot and culm properties of a developing phyllostachys iridescens grove. Applied Ecology and Environmental Research, 15(3), pp.25-38.
-## [3] Ripka, G., Kontschán, J. and Neményi, A., 2015. A new genus and species of eriophyoid mites (Acari: Eriophyoidea: Diptilomiopidae) on Phyllostachys iridescens (Poaceae) from Hungary. Acta Zoologica Academiae Scientiarum Hungaricae, 61(1), pp.47-56.
+[1]. Kontschán, J., Ács, A., Wang, G.Q. and Neményi, A., 2015. New data to the mite fauna of Hungarian bamboo plantations. Acta Phytopathologica et Entomologica Hungarica, 50(1), pp.77-83.
+[2]. Nemenyi, A., Pek, Z., Percze, A., Gyuricza, C., Miko, P., Nagy, Z., Higashiguchi, R. and Helyes, L., 2017. The effect of water availability on shoot and culm properties of a developing phyllostachys iridescens grove. Applied Ecology and Environmental Research, 15(3), pp.25-38.
+[3]. Ripka, G., Kontschán, J. and Neményi, A., 2015. A new genus and species of eriophyoid mites (Acari: Eriophyoidea: Diptilomiopidae) on Phyllostachys iridescens (Poaceae) from Hungary. Acta Zoologica Academiae Scientiarum Hungaricae, 61(1), pp.47-56.
 
 # Open Source: 
 This project is licensed under the permissive open source MIT license.
