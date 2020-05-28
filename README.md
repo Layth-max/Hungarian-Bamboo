@@ -3,7 +3,7 @@ Classification of Hungarian bamboo
 
 ![Hungarian Bamboo](https://user-images.githubusercontent.com/60480080/83077777-705ec480-a078-11ea-8bd8-20a51b76aca0.jpg)
 
-# Bamboo Nurseries in Hungary [1]
+# Bamboo Nurseries in Hungary [1, 2, 3]
 1. Szada
 2. Botanical garden of Szent István University, Gödöllő, web: http://novenytan.kertk.szie.hu/node/3025?language=en
 3. Botanical garden of the University of Szeged, web: https://www.fuveszkert.u-szeged.hu/en/
@@ -15,6 +15,8 @@ Classification of Hungarian bamboo
 
 # References:
 [1] Kontschán, J., Ács, A., Wang, G.Q. and Neményi, A., 2015. New data to the mite fauna of Hungarian bamboo plantations. Acta Phytopathologica et Entomologica Hungarica, 50(1), pp.77-83.
+[2] Nemenyi, A., Pek, Z., Percze, A., Gyuricza, C., Miko, P., Nagy, Z., Higashiguchi, R. and Helyes, L., 2017. The effect of water availability on shoot and culm properties of a developing phyllostachys iridescens grove. Applied Ecology and Environmental Research, 15(3), pp.25-38.
+[3] Ripka, G., Kontschán, J. and Neményi, A., 2015. A new genus and species of eriophyoid mites (Acari: Eriophyoidea: Diptilomiopidae) on Phyllostachys iridescens (Poaceae) from Hungary. Acta Zoologica Academiae Scientiarum Hungaricae, 61(1), pp.47-56.
 
 # Open Source: 
 This project is licensed under the permissive open source MIT license.
