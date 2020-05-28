@@ -3,11 +3,15 @@ Classification of Hungarian bamboo
 
 ![Hungarian Bamboo](https://user-images.githubusercontent.com/60480080/83077777-705ec480-a078-11ea-8bd8-20a51b76aca0.jpg)
 
-# Bamboo Nurceries in Hungary [1]
+# Bamboo Nurseries in Hungary [1]
 1. Szada
 2. Botanical garden of Szent István University, Gödöllő.
-3. ELTE Botanical Garden, Budapest. 
-4. Botanical garden of the University of Szeged.
+3. Botanical garden of the University of Szeged, web: https://www.fuveszkert.u-szeged.hu/en/
+4. EÖTVÖS LORÁND UNIVERSITY HERB GARDEN, Budapest, Web: www.fuveszkert.org.
+5. https://oazis.hu/disznoveny-kategoria/bambuszok-es-diszfuvek/page/6/
+6. http://szombathelypont.hu/latnivalok/top-10-latnivalo/kamoni-arboretum-es-okoturisztikai-kozpont.271/
+7. http://sorbotkert.hu/tevekenysegek/#.XsuwUUQzbIU
+8. https://www.bambuszkerteszet.hu/riz%C3%B3makorl%C3%A1toz%C3%A1s.html 
 
 # References:
 [1] Kontschán, J., Ács, A., Wang, G.Q. and Neményi, A., 2015. New data to the mite fauna of Hungarian bamboo plantations. Acta Phytopathologica et Entomologica Hungarica, 50(1), pp.77-83.
