@@ -3,7 +3,7 @@ Classification of Hungarian bamboo
 
 ![Hungarian Bamboo](https://user-images.githubusercontent.com/60480080/83077777-705ec480-a078-11ea-8bd8-20a51b76aca0.jpg)
 
-# Bamboo Nurseries in Hungary [1, 2, 3]
+# Bamboo Nurseries in Hungary 
 1. László Nagy's Bamboo garden, web:http://www.bambuszkertesz.hu/index.php/component/users/?view=login
 2. Botanical garden of Szent István University, Gödöllő, web: http://novenytan.kertk.szie.hu/node/3025?language=en
 3. Botanical garden of the University of Szeged, web: https://www.fuveszkert.u-szeged.hu/en/
